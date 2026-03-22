@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NutriTrack AI",
+  "description": "A smart calorie tracker with AI-powered food logging and photo scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
